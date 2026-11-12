@@ -1,0 +1,11 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: solid;
+    padding: 10px;
+    border-color: pink;
+}
+body {
+    background: linear-gradient(to right, pink, violet);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
